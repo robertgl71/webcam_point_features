@@ -1,3 +1,0 @@
-/home/robert/repoGit/webcam_point_features/build/CMakeFiles/rebuild_cache.dir
-/home/robert/repoGit/webcam_point_features/build/CMakeFiles/edit_cache.dir
-/home/robert/repoGit/webcam_point_features/build/CMakeFiles/point_features.dir
